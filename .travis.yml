@@ -1,0 +1,9 @@
+language: java
+script: mvn package
+deploy:
+   provider: cloudfoundry
+   username: swastiksuman@gmail.com
+   password: elnino#09
+   api: https://api.run.pivotal.io
+   organization: Vdsi
+   space: staging
