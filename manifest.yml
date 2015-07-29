@@ -1,4 +1,4 @@
 applications:
-- name: hello-gui
+- name: swastikpanda-gui
   memory: 512M
-  host: hello
+  host: swastikpanda
