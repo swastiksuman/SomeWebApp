@@ -1,4 +1,4 @@
 applications:
-- name: nifty-gui
+- name: hello-gui
   memory: 512M
-  host: nifty
+  host: hello
