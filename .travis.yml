@@ -6,4 +6,4 @@ deploy:
    password: elnino#09
    api: https://api.run.pivotal.io
    organization: Vdsi
-   space: staging
+   space: development
