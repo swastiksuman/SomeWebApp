@@ -2,6 +2,5 @@ applications:
 - name: swastik-panda-gui
   memory: 512M
   host: swastik-panda-g
-  path: /home/travis/build/swastiksuman/SomeWebApp/target/trucks-0.0.1-SNAPSHOT.war
+  path: home/travis/build/swastiksuman/SomeWebApp/target/trucks-0.0.1-SNAPSHOT.war
   buildpack: https://github.com/cloudfoundry/java-buildpack.git
-  stack: cflinuxfs2
