@@ -1,4 +1,5 @@
 applications:
-- name: swastikpanda-gui
+- name: swastik-suman-gui
   memory: 512M
-  host: swastikpanda
+  host: swastik-suman-g
+  path: target/trucks-0.0.1-SNAPSHOT.war
