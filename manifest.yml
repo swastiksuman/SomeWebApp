@@ -2,5 +2,4 @@ applications:
 - name: swastik-panda-gui
   memory: 512M
   host: swastik-panda-g
-  path: target/trucks-0.0.1-SNAPSHOT.war
-  
+  path: swastiksuman/SomeWebApp/target/trucks-0.0.1-SNAPSHOT.war
